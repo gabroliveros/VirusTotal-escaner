@@ -1,6 +1,6 @@
 # Escanear archivos con VirusTotal
 
-Este proyecto permite aprovechar la API de VirusTotal para escanear los archivos contenidos en un directorio y detectar contenido malicioso. El escaneo se realiza de forma asíncrona para archivos individuales o directorios completos. Proporciona informes detallados por archivo y un resumen general del análisis.
+Este proyecto permite aprovechar la API de VirusTotal para escanear archivos en un directorio y detectar contenido malicioso. El escaneo se realiza de forma asíncrona para archivos individuales o directorios completos. Proporciona informes detallados por archivo y un resumen general del análisis.
 
 ### Requisitos: 
 
