@@ -32,16 +32,19 @@ SHA-256: 9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 Tamaño: 256.00 KB
 
 Estadísticas:
-• Maliciosos: 12
-• Sospechosos: 3
-• Inofensivos: 25
+
+- Maliciosos: 12
+- Sospechosos: 3
+- Inofensivos: 25
 
 Cobertura de análisis:
-• Total motores: 68
-• Motores que lo analizaron: 40
-• Porcentaje de detección: 37.5%
+
+- Total motores: 68
+- Motores que lo analizaron: 40
+- Porcentaje de detección: 37.5%
 
 Motores de detección que encontraron amenazas:
+
 - Kaspersky: Trojan.Win32.Generic
 - BitDefender: Gen:Variant.Razy.123456
 - ESET-NOD32: Win32/TrojanDropper.Agent.NEQ
